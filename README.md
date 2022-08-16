@@ -11,7 +11,7 @@ Creación de un laberinto con estilo PAC-MAN
 
 * ¡¡Hay que llegar en menos de 25 movimientos!!
 
-# Requsitos
+# Requisitos
 
 ¡¡Importante tener un servidor como XAMPP para su funcionamiento!!
 
