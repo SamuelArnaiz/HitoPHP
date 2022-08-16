@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+@font-face{
+    font-family: "Retro";
+    src: url("../Fonts/emulogic.ttf");
+    font-style: oblique;
+}
+
+table,td,tr{
+    border: 3px solid blue;
+    border-collapse: collapse;
+    
+}
+tr,td{
+    width: 50px;
+    height: 50px;
+}
+.controles{
+    text-align: center;
+    display: block;
+    
+    
+}
+.laberinto{
+    text-align: center;
+    margin-top: 20px;
+    display: inline-block;
+}
+.HUD{
+    font-family: "Retro";
+    color: white;
+    height: 100px;
+}
+img{
+    width: 50px;
+}
+            
+
+#botonup{
+    background-image: url("../Images/up.png");
+    width: 100px;
+    height: 115px;
+}
+#botonleft{
+    background-image: url("../Images/left.png");
+    width: 115px;
+    height: 100px;
+}
+#botonright{
+    background-image: url("../Images/right.png");
+    width: 115px;
+    height: 100px;
+    margin-left:100px;
+}
+#botondown{
+    background-image: url("../Images/down.png");
+    width: 100px;
+    height: 115px;
+}
+input{
+    background-color: transparent;
+    border: 0px;
+}
